@@ -6,11 +6,7 @@
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Algorithm Details](#algorithm-details)
-- [Customization](#customization)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
+
 
 ## Description
 Interactive visualization tool for the A* pathfinding algorithm built with Python and Pygame. Watch the algorithm find the shortest path in real-time!
